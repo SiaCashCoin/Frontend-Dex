@@ -22,12 +22,12 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Farms',
+    label: 'SCC Farms',
     icon: 'FarmIcon',
     href: 'https://siacashcoin.com/farms',
   },
   {
-    label: 'Pools',
+    label: 'SCC Pools',
     icon: 'PoolIcon',
     href: 'https://siacashcoin.com/syrup',
   },
