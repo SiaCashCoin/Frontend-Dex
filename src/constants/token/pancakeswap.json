@@ -219,15 +219,7 @@
         "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
         "chainId": 56,
         "decimals": 18
-      },
-      {
-        "name": "Fantom",
-        "symbol": "FTM",
-        "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "/images/coins/fantom.png"    
-      },
+      },      
       {
         "name": "Ankr",
         "symbol": "ANKR",
@@ -291,14 +283,6 @@
         "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
         "chainId": 56,
         "decimals": 18
-      },
-      {
-        "name": "Hotbit Token",
-        "symbol": "HTB",
-        "address": "0x4e840aadd28da189b9906674b4afcb77c128d9ea",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "/images/coins/hotbit.png"  
       },     
       {
         "name": "Uniswap",
