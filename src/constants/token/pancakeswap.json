@@ -141,7 +141,7 @@
         "symbol": "ATOM",
         "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
         "chainId": 56,
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "/images/coins/safemoon.png"  
       },
       {
@@ -196,7 +196,7 @@
         "symbol": "DOGE",
         "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
         "chainId": 56,
-        "decimals": 18,
+        "decimals": 8,
         "logoURI": "/images/coins/doge.png"    
       },
       {
@@ -275,7 +275,7 @@
         "symbol": "Baby Doge",
         "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 9
       },
       {
         "name": "AlphaToken",
@@ -297,7 +297,23 @@
         "address": "0x1203355742e76875154c0d13eb81dcd7711dc7d9",
         "chainId": 56,
         "decimals": 6
-      },     
+      },
+      {
+        "name": "FLOKI MONK",
+        "symbol": "FLOKIMONK",
+        "address": "0x50276ec18765278b582c6fb4dbc2ee5f31309257",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "/images/coins/flokimonk.png"   
+      },
+      {
+        "name": "MINI CAKE",
+        "symbol": "MINICAKE",
+        "address": "0xC184E85e9FA942b8Ae553F5ef4d5b40FD0213Bf9",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "/images/coins/flokimonk.png"   
+      },  
       {
         "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
