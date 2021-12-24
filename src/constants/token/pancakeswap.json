@@ -153,11 +153,12 @@
         "logoURI": "/images/coins/alpaca.png"  
       },
       {
-        "name": "Ontology Token",
-        "symbol": "ONT",
-        "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,          
+        "logoURI": "/images/coins/matic.png" 
       },
       {
         "name": "Zcash Token",
@@ -175,30 +176,32 @@
         "logoURI": "/images/coins/DAI-icon.png"
       },
       {
-        "name": "YFII.finance Token",
-        "symbol": "YFII",
-        "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+        "name": "EverRise",
+        "symbol": "RISE",
+        "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/rise.png"  
+      },
+      {
+        "name": "Pancake Bunny",
+        "symbol": "BUNNY",
+        "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/pancake-bunny.png"  
+      },
+      {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
         "chainId": 56,
         "decimals": 18
       },
       {
-        "name": "Cream",
-        "symbol": "CREAM",
-        "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
-        "chainId": 56,
-        "decimals": 18
-      },
-      {
-        "name": "Prometeus",
-        "symbol": "PROM",
-        "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
-        "chainId": 56,
-        "decimals": 18
-      },
-      {
-        "name": "CanYaCoin",
-        "symbol": "CAN",
-        "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+        "name": "The Graph Token",
+        "symbol": "GRT",
+        "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
         "chainId": 56,
         "decimals": 18
       },
