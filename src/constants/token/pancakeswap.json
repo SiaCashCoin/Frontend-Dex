@@ -225,7 +225,8 @@
         "symbol": "FTM",
         "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "/images/coins/fantom.png"    
       },
       {
         "name": "Ankr",
@@ -253,7 +254,8 @@
         "symbol": "Frax",
         "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "/images/coins/frax.png"    
       },
       {
         "name": "1Inch Token",
@@ -295,7 +297,8 @@
         "symbol": "HTB",
         "address": "0x4e840aadd28da189b9906674b4afcb77c128d9ea",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "/images/coins/hotbit.png"  
       },     
       {
         "name": "Uniswap",
