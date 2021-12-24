@@ -82,12 +82,12 @@
         "logoURI": "/images/coins/BTC-icon.png"
       },
       {
-        "name": "BAND Protocol Token",
-        "symbol": "BAND",
-        "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+        "name": "Pancake Bunny",
+        "symbol": "BUNNY",
+        "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "/images/coins/band.png"
+        "logoURI": "/images/coins/pancake-bunny.png"
       },
       {
         "name": "EOS Token",
@@ -137,11 +137,12 @@
         "decimals": 18
       },
       {
-        "name": "Cosmos Token",
-        "symbol": "ATOM",
-        "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+        "name": "Safemoon",
+        "symbol": "SAFEMOON",
+        "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "/images/coins/safemoon.png"  
       },
       {
         "name": "Tezos Token",
@@ -180,11 +181,12 @@
         "decimals": 18
       },
       {
-        "name": "Cream",
-        "symbol": "CREAM",
-        "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
+        "name": "ALPACA FINANCE",
+        "symbol": "ALPACA",
+        "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "/images/coins/alpaca.png"  
       },
       {
         "name": "Prometeus",
@@ -194,11 +196,12 @@
         "decimals": 18
       },
       {
-        "name": "CanYaCoin",
-        "symbol": "CAN",
-        "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+        "name": "SHIB",
+        "symbol": "SHIB",
+        "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "/images/coins/shib.png" 
       },
       {
         "name": "Polkadot Token",
@@ -517,18 +520,21 @@
         "decimals": 2
       },
       {
-        "name": "AS Roma",
-        "symbol": "ASR",
-        "address": "0x80d5f92c2c8c682070c95495313ddb680b267320",
+        "name": "EverRise",
+        "symbol": "RISE",
+        "address": "0x0cD022ddE27169b20895e0e2B2B8A33B25e63579",
         "chainId": 56,
-        "decimals": 2
+        "decimals": 2,
+        "logoURI": "/images/coins/rise.png"  
+        
       },
       {
-        "name": "AllianceBlock",
-        "symbol": "bALBT",
-        "address": "0x72faa679e1008ad8382959ff48e392042a8b06f7",
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
         "chainId": 56,
         "decimals": 18
+        "logoURI": "/images/coins/matic.png"  
       },
       {
         "name": "Tenet",
