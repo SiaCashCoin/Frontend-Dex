@@ -307,6 +307,14 @@
         "logoURI": "/images/coins/flokimonk.png"   
       },
       {
+        "name": "MINI CAKE",
+        "symbol": "MINICAKE",
+        "address": "0xC184E85e9FA942b8Ae553F5ef4d5b40FD0213Bf9",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "/images/coins/flokimonk.png"   
+      },  
+      {
         "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
