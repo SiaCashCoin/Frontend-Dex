@@ -66,7 +66,7 @@
         "logoURI": "/images/coins/SCC.png"
       },
       {
-        "name": "Ethereum Token",
+        "name": "Binance Peg Ethereum Token",
         "symbol": "ETH",
         "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
         "chainId": 56,
@@ -90,7 +90,7 @@
         "logoURI": "/images/coins/shib.png"
       },
       {
-        "name": "EOS Token",
+        "name": "Binance Peg EOS Token",
         "symbol": "EOS",
         "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
         "chainId": 56,
@@ -192,16 +192,16 @@
         "logoURI": "/images/coins/pancake-bunny.png"  
       },
       {
-        "name": "Dogecoin",
+        "name": "Binance Peg Dogecoin",
         "symbol": "DOGE",
         "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
         "chainId": 56,
         "decimals": 18
       },
       {
-        "name": "The Graph Token",
-        "symbol": "GRT",
-        "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "name": "Binance Peg Ethereum Classic Token",
+        "symbol": "ETC",
+        "address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
         "chainId": 56,
         "decimals": 18
       },
@@ -220,9 +220,9 @@
         "decimals": 18
       },
       {
-        "name": "Streamity",
-        "symbol": "STM",
-        "address": "0x90df11a8cce420675e73922419e3f4f3fe13cccb",
+        "name": "Fantom",
+        "symbol": "FTM",
+        "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
         "chainId": 56,
         "decimals": 18
       },
@@ -248,23 +248,23 @@
         "decimals": 18
       },
       {
-        "name": "Dice.finance Token",
-        "symbol": "DICE",
-        "address": "0x748ad98b14c814b28812eb42ad219c8672909879",
+        "name": "Frax",
+        "symbol": "Frax",
+        "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
         "chainId": 56,
         "decimals": 18
       },
       {
-        "name": "JNTR/b",
-        "symbol": "JNTR/b",
-        "address": "0x3c037c4c2296f280bb318d725d0b454b76c199b9",
+        "name": "1Inch Token",
+        "symbol": "1INCH",
+        "address": "0x111111111117dc0aa78b770fa6a738034120c302",
         "chainId": 56,
         "decimals": 18
       },
       {
-        "name": "SPARTAN PROTOCOL TOKEN",
-        "symbol": "SPART",
-        "address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
+        "name": "Coin98",
+        "symbol": "C98",
+        "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
         "chainId": 56,
         "decimals": 18
       },
@@ -276,16 +276,16 @@
         "decimals": 18
       },
       {
-        "name": "Venus",
-        "symbol": "XVS",
-        "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+        "name": "Anyway BEP-20",
+        "symbol": "ANY",
+        "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
         "chainId": 56,
         "decimals": 18
       },
       {
-        "name": "Beer Garden",
-        "symbol": "Beer",
-        "address": "0xbb8db5e17bbe9c90da8e3445e335b82d7cc53575",
+        "name": "Baby Doge Coin",
+        "symbol": "Baby Doge",
+        "address": "0xc748673057861a797275CD8A068AbB95A902e8de",
         "chainId": 56,
         "decimals": 18
       },
@@ -297,9 +297,9 @@
         "decimals": 18
       },
       {
-        "name": "Beefy.finance",
-        "symbol": "BIFI",
-        "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+        "name": "Hotbit Token",
+        "symbol": "HTB",
+        "address": "0x4e840aadd28da189b9906674b4afcb77c128d9ea",
         "chainId": 56,
         "decimals": 18
       },
