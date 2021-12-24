@@ -250,7 +250,7 @@
         "decimals": 18
       },
       {
-        "name": "Frax",
+        "name": "Frax Token",
         "symbol": "Frax",
         "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
         "chainId": 56,
