@@ -311,7 +311,8 @@
         "symbol": "MicroSanta",
         "address": "0x49E558939F6dD099c2BC29BD84b75aF82b5Ad1b3",
         "chainId": 56,
-        "decimals": 9
+        "decimals": 9,
+        "logoURI": "/images/coins/microsanta.png"  
          
       },
       {
