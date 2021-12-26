@@ -299,12 +299,12 @@
         "decimals": 6
       },
       {
-        "name": "FLOKI MONK",
-        "symbol": "FLOKIMONK",
-        "address": "0x50276ec18765278b582c6fb4dbc2ee5f31309257",
+        "name": "CHIKU INI",
+        "symbol": "CHIKUINU",
+        "address": "0x2C14CBffD9963C17fF65028C52f75Ea6f14205Ff",
         "chainId": 56,
-        "decimals": 9,
-        "logoURI": "/images/coins/flokimonk.png"   
+        "decimals": 4,
+        "logoURI": "/images/coins/chikuini.png"   
       },
       {
         "name": "Micro Santa Coin",
