@@ -312,8 +312,7 @@
         "address": "0x49E558939F6dD099c2BC29BD84b75aF82b5Ad1b3",
         "chainId": 56,
         "decimals": 9,
-        "logoURI": "/images/coins/microsanta.png"  
-         
+        "logoURI": "/images/coins/microsanta.png"   
       },
       {
         "name": "MINI CAKE",
@@ -328,8 +327,7 @@
         "symbol": "TEM",
         "address": "0x19e6BfC1A6e4B042Fb20531244D47E252445df01",
         "chainId": 56,
-        "decimals": 9,
-                
+        "decimals": 9                
       },  
       {
         "name": "Binance-Peg USD Coin",
