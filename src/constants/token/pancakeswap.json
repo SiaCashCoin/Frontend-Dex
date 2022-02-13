@@ -299,6 +299,14 @@
         "decimals": 6
       },
       {
+        "name": "Praise Fun Token",
+        "symbol": "PRAISE",
+        "address": "0x2a64ab26cd76f349144920E8a7A59C0D6B7F2967",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/praise.png"  
+      },       
+      {
         "name": "CHIKU INI",
         "symbol": "CHIKUINU",
         "address": "0x2C14CBffD9963C17fF65028C52f75Ea6f14205Ff",
