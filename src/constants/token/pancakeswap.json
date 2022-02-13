@@ -329,7 +329,23 @@
         "chainId": 56,
         "decimals": 9,
         "logoURI": "/images/coins/tem.png"  
-      },  
+      },
+      {
+        "name": "Galaxy Heroes Coin",
+        "symbol": "GHC",
+        "address": "0x683fae4411249Ca05243dfb919c20920f3f5bfE0",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "/images/coins/ghc.png"  
+      }, 
+      {
+        "name": "Libero Financial Freedom",
+        "symbol": "LIBERO",
+        "address": "0x0DFCb45EAE071B3b846E220560Bbcdd958414d78",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/libero.png"  
+      },      
       {
         "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
