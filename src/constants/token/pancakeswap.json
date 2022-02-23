@@ -353,7 +353,15 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "/images/coins/libero.png"  
-      },      
+      },
+      {
+        "name": "PayRue Token",
+        "symbol": "PROPEL",
+        "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "/images/coins/propel.png"  
+      },            
       {
         "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
