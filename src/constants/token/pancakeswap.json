@@ -1,4 +1,4 @@
-import {DEFAULT_LIST_OF_LISTS} from 'constants/lists.ts'
+import {DEFAULT_LIST_OF_LISTS} from 'src/constants/lists.ts'
 {
     "name": "pancakeswap",
     "timestamp": "2020-08-25T15:41:29.665Z",
