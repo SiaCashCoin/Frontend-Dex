@@ -6,6 +6,8 @@ Download Visual Studio or Gitbash and open folder
 Open terminal and run command
 
 yarn
+
+
 yarn start
 
 Open a pull request to contribute to SCC Frontend if you would like to push a change to our frontend
